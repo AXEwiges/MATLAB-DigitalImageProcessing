@@ -1,0 +1,2 @@
+>>flip_2('DistortedImage.png','tissue.png',20);
+>>awase('coloredChips.png','circles.png');
