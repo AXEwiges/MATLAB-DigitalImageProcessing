@@ -1,0 +1,6 @@
+>>main_1('rice.png');
+%After entering , figure(1) will display the longest 3 lines
+%Figure(2) will display the three largest areas, 
+%with colors ranging from light to dark
+%The three pieces with the largest display 
+%area are time-consuming to add, and it takes some time to wait
